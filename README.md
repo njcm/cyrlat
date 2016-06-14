@@ -1,4 +1,4 @@
-# cyrlat [![Build Status](https://travis-ci.org/njcm/cyrlat.svg?branch=master)](https://travis-ci.org/njcm/cyrlat) [![GoDoc](https://godoc.org/github.com/njcm/cyrlat?status.svg)](https://godoc.org/github.com/njcm/cyrlat)
+# cyrlat [![Go Report Card](https://goreportcard.com/badge/github.com/njcm/cyrlat)](https://goreportcard.com/report/njcm/cyrlat) [![Build Status](https://travis-ci.org/njcm/cyrlat.svg?branch=master)](https://travis-ci.org/njcm/cyrlat) [![GoDoc](http://img.shields.io/badge/godoc-reference-blue.svg)](https://godoc.org/github.com/njcm/cyrlat) [![License](http://img.shields.io/badge/license-mit-blue.svg)](https://raw.githubusercontent.com/njcm/cyrlat/master/LICENSE) 
 
 Library to translate the Cyrillic to the Latin alphabet for use in semantic URLs, file names, etc.
 
