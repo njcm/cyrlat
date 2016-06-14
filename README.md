@@ -1,4 +1,4 @@
-# cyrlat
+# cyrlat ![travis-ci.org](https://travis-ci.org/njcm/cyrlat.svg?branch=master)
 
 Library to translate the Cyrillic to the Latin alphabet for use in semantic URLs, file names, etc.
 
@@ -15,7 +15,7 @@ import(
 )
 
 func main() {
-  cyrillic := "Навзание файла"
+  cyrillic := "Название файла"
   name := cyrlat.Latin(cyrillic, cyrlat.UnSpace)
   fmt.Println(name)
 }
