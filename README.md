@@ -1,4 +1,4 @@
-# cyrlat ![travis-ci.org](https://travis-ci.org/njcm/cyrlat.svg?branch=master)
+# cyrlat [![Build Status](https://travis-ci.org/njcm/cyrlat.svg?branch=master)](https://travis-ci.org/njcm/cyrlat) [![GoDoc](https://godoc.org/github.com/njcm/cyrlat?status.svg)](https://godoc.org/github.com/njcm/cyrlat)
 
 Library to translate the Cyrillic to the Latin alphabet for use in semantic URLs, file names, etc.
 
